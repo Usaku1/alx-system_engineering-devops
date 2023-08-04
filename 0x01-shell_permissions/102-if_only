@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello
+chown betty hello ./102-if_onlysudo ./102-if_only guillaume.
