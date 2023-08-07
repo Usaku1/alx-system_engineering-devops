@@ -1,2 +1,2 @@
 #!/bin/bash
-ghdte
+tr "A" "Z" | tr "C" "e"
